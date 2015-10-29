@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<head>
+<style> 
+body { text-align: center;
+ background: url("http://data.whicdn.com/images/56513553/large.jpg"); 
+ background-size: cover;
+ background-position: center center;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ color:white;
+ font-family: Helvetica;
+ p {
+    font-size: 24px;
+}
+
+ }
+ input {
+  border: 0;
+  padding: 12px;
+  font-size: 18px;}
+  input[type="submit"] {
+  background: limegreen;
+  color: black;
+}
+
+
+</style>
+</head>
+<body>
+<img src="http://www.iraqeen.com/For-Men/Hairstyles/haircuts-with-beards-2015-men-hipster-hairstyles-are-popular-in-2015-xpressmag-xpressmag-Picture-HD-Wallpapers-Stylir.jpg" height="250" width="250">
+<p>Hello. My name is Matt Healy and I have creative ideas and build websites
+</p>
+<input type="email" placeholder="Email" >
+<input type= "submit">
+</body>
